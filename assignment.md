@@ -12,24 +12,36 @@ Break into small groups and answer the following. Use your knowledge of Structur
 
 *List at least 3 examples for each category that Netflix likely collects about you:*
 
-* **Explicit Data (Things you click):** (e.g., Thumbs up/down...)  
+* **Explicit Data (Things you click):** (e.g., Thumbs up/down...)
+* 1. Completed videos
+  2. Videos scrolled pass
+  3. Skipped introduction / skip portion of the video 
 * **Implicit Data (Things you do):** (e.g., Did you pause at a scary scene? Did you binge-watch 5 episodes?)
+* 1. Videos completed in the same genre - detective movies / romance drama / korean dramas
+  2. Volume down at specific parts - action scenes / romantic scenes
+  3. Rewind portions - begining of new drama / movie sequel recommended prequels
 
 ### **Part 2: Structured vs. Unstructured**
 
-* **Structured Data:** User ID, Movie Genre, Release Year.  
+* **Structured Data:** User ID, Movie Genre, Release Year.
+* 1. Duration of video
+  2. Video language
+  3. Available subtitles 
 * **Unstructured Data:** The movie thumbnails (images), the movie plot summary (text), the video files themselves.  
   * *Question: How might Netflix use the **Unstructured** data (thumbnails) to trick you into watching a movie?*
+  * Have a history of likely detective movies? Change thumbnails that are more mystery based or intriging
 
 ### **Part 3: The Algorithm (Analysis)**
 
 * If User A watches "Breaking Bad" and "Better Call Saul".  
 * And User B watches "Breaking Bad".  
 * *What will the algorithm recommend to User B? Why?*
+* If User A and B likes X, and only A likes Y, it's likely that B will like Y as well, therefore recommend Y 
 
 ### **Part 4: Ethics (The "Bubble")**
 
 * *Is it ethical for an algorithm to only show you things it knows you will like? Does this create a 'content bubble' that limits your exposure to new ideas?*
+* No, it means the user is only exposed to content that are similar and might get bored of similar concepts / movies. It's good to cater for that and periodically recommend something that does not fit the algorithm as much to expose the user to new concepts / styles. 
 
 ## **💡Please Share Your Answers & Thoughts in Discord💡**
 
